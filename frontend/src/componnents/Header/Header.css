@@ -1,12 +1,7 @@
 .header {
   display: flex;
   flex-direction: column;
-  background: linear-gradient(
-    30deg,
-    rgb(131, 4, 4),
-    rgb(11, 83, 20),
-    rgb(3, 12, 67)
-  );
+  background:bisque;
   height: 200px;
   position: static;
 }
@@ -55,7 +50,7 @@
   background-color: rgb(23, 25, 26);
 }
 .nav a:hover {
-  color: rgb(35, 221, 18);
+  color: bisque
 }
 .header h1:hover{
   color: black;

@@ -8,17 +8,14 @@ function Contact() {
     <>
       <h1>Contact</h1>
       <div className="contactContainer">
-        <h3>J. M. Chathuranga Niroshana</h3>
-        <h4>BSc. Software Engineering,</h4>
-        <h4>Malabe,</h4>
-        <h4>CINEC Campus</h4>
-        <h4>Sri Lanka</h4>
+        <h3>Mahitha Chippa</h3>
+        <h4>II Year Btech (CSE-AIML)</h4>
+        <h4>VNRVJIET</h4>
+        <h4>Hyderabad</h4>
 
         <div className="linkContainer">
-          <a href="mailto:niroshana.c.n.j@gmail.com">Email</a>
-          <br />
-          <a href="https://www.linkedin.com/in/chathuranga-niroshana-651122252/">
-            linkedIn
+          <a href="https://www.linkedin.com/in/mahitha-chippa-782304309/">
+            LinkedIn
           </a>
         </div>
       </div>

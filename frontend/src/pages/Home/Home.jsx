@@ -1,11 +1,12 @@
 import "./Home.css";
-import homeImg from "./homeImg.jpg";
+import homeImg from "./homeImg.png";
+
 
 function Home() {
   return (
     <div className="homeContainer">
       <div className="homeH">
-        <h1>Welcome To The Website.</h1>
+        <h1>Welcome To The Website</h1>
       </div>
       <div className="contentHome">
         <img src={homeImg} alt="photo" />
@@ -15,7 +16,7 @@ function Home() {
           information.
         </p>
         <p className="homeP">
-          Enter Students & Teachers Information for better handling and keeping thier records with minimal effets. 
+          Enter Students & Teachers Information for better handling and keeping their records with minimal efforts. 
         </p>
       </div>
     </div>
